@@ -5,4 +5,4 @@ In this repo I will be adding the projects and homeworks that I am seeing in the
 Projects added so far:
 
 1-Haberlesme(Communication): A simple IoT application. The user enters a password on the python application and the information gets checked based on the designated password in
-the arduino and sends the information of whether the user can enter or not, back to  the python application. the two devices connected via usb cable in this example.
+the arduino. It sends the information of whether the user can enter or not, back to  the python application and one of the two LEDs on the breadboard lights up. the two devices connected via usb cable in this example.
